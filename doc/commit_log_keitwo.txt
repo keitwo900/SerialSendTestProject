@@ -1,0 +1,39 @@
+//-----------------------------------------------------
+//SerialSendTest commitログ
+//-----------------------------------------------------
+
+---------------------------------------------------------------
+18xxxx by keitwo
+・
+
+■主な変更点
+
+■追加ファイル
+■削除ファイル
+■変更ファイル
+
+---------------------------------------------------------------
+181118 by keitwo
+・シリアルポートデータ送信テストプロジェクト
+
+■プロジェクト説明
+・このプロジェクトは、C#でシリアルポート(COMポート)を選択、接続し、
+　文字列を送信するテストプロジェクトです。
+
+・Visual Studio 2017での開発環境です。
+　個人の技術向上のために行っているので、Community Editionで開発しています。
+
+■追加ファイル
+SerialSendTest.sln
+SerialSendTest/App.config
+SerialSendTest/Form1.Designer.cs
+SerialSendTest/Form1.cs
+SerialSendTest/Form1.resx
+SerialSendTest/Program.cs
+SerialSendTest/Properties/AssemblyInfo.cs
+SerialSendTest/Properties/Resources.Designer.cs
+SerialSendTest/Properties/Resources.resx
+SerialSendTest/Properties/Settings.Designer.cs
+SerialSendTest/Properties/Settings.settings
+SerialSendTest/SerialSendTest.csproj
+doc/commit_log_keitwo.txt
