@@ -20,6 +20,7 @@ namespace SerialSendTest
 		public Form1()
 		{
 			InitializeComponent();
+			serialPort1.Encoding = Encoding.UTF8; //エンコーディング指定
 		}
 
 		/// <summary>
